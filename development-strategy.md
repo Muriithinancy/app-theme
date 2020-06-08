@@ -84,8 +84,8 @@ Branch called  `showcase`
 
 ### CSS
 
-- [ ] Align to the middle horizontally and to the center vertically
-- [ ] Style showcase with background image, for h1 an p: center the row and add and style the background 
+- [ ] Align to the center horizontally and to the middle vertically
+- [ ] Style showcase with background image, for h1 and p: center the row and add and style the background . // fixed header h1 to center
 - [ ] Add media query for smallest screen 
 
 ## 3. User Story: The Features
@@ -100,7 +100,7 @@ Branch called  `features` and `icons`
 
 - [ ] Create a section for features with id features
 - [ ] Add head in h2 and give a short description in p
-
+>
 - [ ] Add icon, head in h4 and short description in p ...Three of these to get 3 rows
 - [ ] Repeat this user story one more time to get 2 icon rows
 
@@ -121,7 +121,7 @@ Branch called  `info` and `images`
 
 - [ ] Create a section for information with id info
 - [ ] Add image
-
+>
 - [ ] Add head in h2
 - [ ] List the features above with their respective icons
 
@@ -130,7 +130,7 @@ Branch called  `info` and `images`
 - [ ] Make the image fits in its container
 - [ ] Align to the center horizontally and to middle vertically
 - [ ] Set and style background image
-  
+>  
 - [ ] Style h2 and the list with its items
 - Faded background, phone image, checkmarks icons
 
@@ -147,10 +147,10 @@ Branch called `contact`, `about` and `newsletter`
 - [ ] Create a section about contact with id company
 - [ ] Add contact us in h4
 - [ ] Add list for phone, email and an address with respective icons
-
+>
 - [ ] Add about us in h4
 - [ ] Add short description in p
-
+>
 - [ ] Add newsletters us in h4 with short description in p
 - [ ] Add form with email input with a placeholder and a submit button
 
