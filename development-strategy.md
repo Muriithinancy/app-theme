@@ -1,16 +1,13 @@
 # Development Strategy
 
-> `name-of-project`
+> `Apptheme`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+For the purposes of practicing git-flow and developing strategy, I am trying to code along [this website](https://www.youtube.com/watch?v=qlA7dputiNc) for this project.
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+<!-- include a wireframe created from whimsical.com for your project in this repository, and display it here -->
+![wireframe](https://user-images.githubusercontent.com/45841105/83947029-d08dfd00-a814-11ea-8b9f-ba9ac818c5c9.png)
 
 ## 0. Set-Up
 
@@ -22,32 +19,164 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
-
-__full user story description__
+__As a user I want to be able to read the overview of this project__
 
 ### Repo
 
-what branch(es) did you work on?
+  __Branch called  `master`__
 
-### HTML
-
-what did you change in the HTML and why?
+- [ ] Updated the initial [README](./README.md) file
+- [ ] Update this [development-strategy.md](./development-strategy.md) file
+- [ ] Create a wireframe
+- [ ] Create boilerplate for html, css and file with images
 
 ### CSS
 
-what did you change in the CSS and why?
+- [ ] Create css folder
+- [ ] Download flexbox grid and add flexboxgrid.css in the css folder
+- [ ] Create style.css file
 
-## 2. ...
+### index.html
 
-...
+- [ ] Include css files
+- [ ] Add meta tags in the head tag
+- [ ] Add bootstrap cdn for font awesome
 
-...
+## 1. User Story: The navigation of this site
 
-## Finishing Touches
+__As a user I want to be able to see the purpose of this website with a navigation bar__
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+### Repo
+
+Branch called `logo` and `nav` to work on the header
+
+### HTML
+
+- [ ] Create header with id main-header
+- [ ] Add logo in h1
+  
+- [ ] Add navigation with id navbar for the menu
+- [ ] List the menu items with dummy links: home, about, service, contact with class current
+
+### CSS
+
+- [ ] Center the header to the middle
+- [ ] Add and style fonts, remove margins and paddings, set line height
+- [ ] Style main header
+
+- [ ] Align nav to the right and align to the middle vertically
+- [ ] Add primary text and background colors
+- [ ] Style the navbar and the links
+
+## 2. User Story: The showcase
+
+__As a user I want to be able to see general purpose of this website__
+
+### Repo
+
+Branch called  `showcase`
+
+### HTML
+
+- [ ] Create a section for showcase with id showcase
+- [ ] Add welcoming message in h1
+- [ ] Give a short description in p
+
+### CSS
+
+- [ ] Align to the middle horizontally and to the center vertically
+- [ ] Style showcase with background image, for h1 an p: center the row and add and style the background 
+- [ ] Add media query for smallest screen 
+
+## 3. User Story: The Features
+
+__As a user I want to be able to see what this website offers__
+
+### Repo
+
+Branch called  `features` and `icons`
+
+### HTML
+
+- [ ] Create a section for features with id features
+- [ ] Add head in h2 and give a short description in p
+
+- [ ] Add icon, head in h4 and short description in p ...Three of these to get 3 rows
+- [ ] Repeat this user story one more time to get 2 icon rows
+
+### CSS
+
+- [ ] Align to the middle
+- [ ] Style h2, p and icons
+
+## 4. User Story: The Info
+
+__As a user I want to be able to see a more information for this website__
+
+### Repo
+
+Branch called  `info` and `images`
+
+### HTML
+
+- [ ] Create a section for information with id info
+- [ ] Add image
+
+- [ ] Add head in h2
+- [ ] List the features above with their respective icons
+
+### CSS
+
+- [ ] Make the image fits in its container
+- [ ] Align to the center horizontally and to middle vertically
+- [ ] Set and style background image
+  
+- [ ] Style h2 and the list with its items
+- Faded background, phone image, checkmarks icons
+
+## 5. User Story: About the company
+
+__As a user I want to be able to see a straight-forward purpose of this website with a navigation bar__
+
+### Repo
+
+Branch called `contact`, `about` and `newsletter`
+
+### HTML
+
+- [ ] Create a section about contact with id company
+- [ ] Add contact us in h4
+- [ ] Add list for phone, email and an address with respective icons
+
+- [ ] Add about us in h4
+- [ ] Add short description in p
+
+- [ ] Add newsletters us in h4 with short description in p
+- [ ] Add form with email input with a placeholder and a submit button
+
+### CSS
+
+- [ ] Style the company section: background, h4 and list
+- [ ] Style the form input and the button
+  
+## 6. User Story: The footer
+
+__As a user I want to be able to see the footer__
+
+### Repo
+
+Branch called `copyright` to work on the footer section
+
+### HTML
+
+- [ ] Create a footer with id main-footer
+- [ ] Add copyright in p
+
+### CSS
+
+- [ ] Align to the center
+- [ ] Style the main-footer
+
+## 7. Final Code Validation
+
+- [ ] Code validation and fixing of errors
