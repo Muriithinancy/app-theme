@@ -48,13 +48,13 @@ __As a user I want to be able to see the purpose of this website with a navigati
 
 ### Repo
 
-Branch called `logo` and `nav` to work on the header
+Branch called `header` to work on the header
 
 ### HTML
 
 - [ ] Create header with id main-header
 - [ ] Add logo in h1
-  
+ >
 - [ ] Add navigation with id navbar for the menu
 - [ ] List the menu items with dummy links: home, about, service, contact with class current
 
@@ -63,7 +63,7 @@ Branch called `logo` and `nav` to work on the header
 - [ ] Center the header to the middle
 - [ ] Add and style fonts, remove margins and paddings, set line height
 - [ ] Style main header
-
+>
 - [ ] Align nav to the right and align to the middle vertically
 - [ ] Add primary text and background colors
 - [ ] Style the navbar and the links
