@@ -25,7 +25,7 @@ __As a user I want to be able to read the overview of this project__
 
   __Branch called  `master`__
 
-- [ ] Updated the initial [README](./README.md) file
+- [ ] Update the initial [README](./README.md) file
 - [ ] Update this [development-strategy.md](./development-strategy.md) file
 - [ ] Create a wireframe
 - [ ] Create boilerplate for html, css and file with images
@@ -42,7 +42,7 @@ __As a user I want to be able to read the overview of this project__
 - [ ] Add meta tags in the head tag
 - [ ] Add bootstrap cdn for font awesome
 
-## 1. User Story: The navigation of this site
+## 1. User Story: Header and navigation of this site
 
 __As a user I want to be able to see the purpose of this website with a navigation bar__
 
@@ -110,7 +110,7 @@ Branch called  `features`
 - [ ] Align to the middle
 - [ ] Style h2, p and icons
 
-## 4. User Story: The Info
+## 4. User Story: Information
 
 __As a user I want to be able to see a more information for this website__
 
@@ -124,7 +124,7 @@ Branch called  `info`
 - [ ] Add image
 >
 - [ ] Add head in h2
-- [ ] List the features above with their respective icons
+- [ ] List the features above with check icons
 
 ### CSS
 
