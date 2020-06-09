@@ -151,8 +151,8 @@ Branch called `company`
 - [ ] Add about us in h4
 - [ ] Add short description in p
 >
-- [ ] Add newsletters us in h4 with short description in p
-- [ ] Add form with email input with a placeholder and a submit button
+- [ ] Add newsletters, h4 with short description in p
+- [ ] Add form with email input, a placeholder and a submit button
 
 ### CSS
 
