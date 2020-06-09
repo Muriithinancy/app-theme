@@ -181,3 +181,4 @@ Branch called `copyright` to work on the footer section
 
 - [ ] Code validation and fixing of errors
 - [ ] Uncomment js script for validation or use [HTML5 validator](validator.w3.org/) and [CSS3 validator](jigsaw.w3.org/css-validator)
+- [ ] Complete [README](README.md)

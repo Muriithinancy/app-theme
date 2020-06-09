@@ -41,6 +41,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Acknowledgement
 
 [Traversy](https://www.youtube.com/watch?v=qlA7dputiNc)
+
 [Whimsical Wireframe](https://whimsical.com/a)
 
 ## [License](./LICENSE)
