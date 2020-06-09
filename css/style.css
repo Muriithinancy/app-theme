@@ -54,7 +54,7 @@ img {
 /* SHOWCASE */
 #showcase {
     background: url('../images/showcase.jpg') no-repeat center center;
-    border-bottom: 3px solid #56a79a;
+    border-bottom: 1px solid #56a79a;
     margin-bottom: 30px;
 }
 
@@ -148,6 +148,12 @@ img {
     color: #fff;
     padding: 10px;;
     border: 0;
+}
+
+/* FOOTER */
+#main-footer {
+    background: #56a79a;
+    color: #fff;
 }
 
 /* MEDIA QUESRIES */
