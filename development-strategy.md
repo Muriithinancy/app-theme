@@ -61,6 +61,7 @@ Branch called `header` to work on the header
 ### CSS
 
 - [ ] Center the header to the middle
+  - [ ] Extra small size screen: center header h1
 - [ ] Add and style fonts, remove margins and paddings, set line height
 - [ ] Style main header
 >
@@ -85,7 +86,7 @@ Branch called  `showcase`
 ### CSS
 
 - [ ] Align to the center horizontally and to the middle vertically
-- [ ] Style showcase with background image, for h1 and p: center the row and add and style the background . // fixed header h1 to center
+- [ ] Style showcase with background image, for h1 and p: center the row and add and style the background . 
 - [ ] Add media query for smallest screen 
 
 ## 3. User Story: The Features
@@ -94,7 +95,7 @@ __As a user I want to be able to see what this website offers__
 
 ### Repo
 
-Branch called  `features` and `icons`
+Branch called  `features`
 
 ### HTML
 
@@ -115,7 +116,7 @@ __As a user I want to be able to see a more information for this website__
 
 ### Repo
 
-Branch called  `info` and `images`
+Branch called  `info`
 
 ### HTML
 
@@ -132,15 +133,14 @@ Branch called  `info` and `images`
 - [ ] Set and style background image
 >  
 - [ ] Style h2 and the list with its items
-- Faded background, phone image, checkmarks icons
 
 ## 5. User Story: About the company
 
-__As a user I want to be able to see a straight-forward purpose of this website with a navigation bar__
+__As a user I want to be able to know more information about the company__
 
 ### Repo
 
-Branch called `contact`, `about` and `newsletter`
+Branch called `company`
 
 ### HTML
 
